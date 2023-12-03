@@ -1,0 +1,6 @@
+* rfc-2549
+
+This is my GitHub site which only serves as a historic mirror of my
+repos.
+
+I mostly program in C and Perl.
